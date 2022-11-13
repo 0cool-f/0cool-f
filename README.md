@@ -13,4 +13,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=astro,aws,bash,bootstrap,bsd,cloudflare,css,deno,docker,git,githubactions,html,js,linux,mysql,nginx,nodejs,php,py,sass,tailwind,ts,vite,vscode,vue,wordpress&theme=light" />
 </p>
+
+## Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0cool-f&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&column=-1" />
+</p>
 -->
